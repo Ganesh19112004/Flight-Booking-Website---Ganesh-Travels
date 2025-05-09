@@ -94,6 +94,4 @@ Feel free to fork and modify the project as needed. If you encounter any issues 
 - Allow **flight rating and reviews** by users.
 - Add **email notifications** for booking confirmations and cancellations.
 
-## License
-This project is open-source and available under the MIT License.
 
