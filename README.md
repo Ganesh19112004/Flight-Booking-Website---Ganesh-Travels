@@ -30,21 +30,50 @@ This is a flight booking website designed for Ganesh Travels. The website allows
 - **Payment Gateway**: Fake payment gateway for testing payment functionality.
 
 ## File Structure
-/FlightBookingWebsite
-├── index.php # Homepage for flight search
-├── login.php # Login page for users
-├── register.php # User registration page
-├── admin_login.php # Admin login page
-├── admin_dashboard.php # Admin dashboard for managing flights and users
-├── add_flight.php # Admin page to add new flights
-├── booking.php # Page where users can confirm booking and make payment
-├── payment.php # Fake payment page
-├── receipt.php # Page to display payment receipt after successful booking
-├── flight_search.php # Handles flight search results
-├── booking_confirmation.php # Displays booking confirmation and flight details
-├── database.php # Database connection file
-├── styles.css # Main CSS file for styling
-└── script.js # JavaScript file for handling dynamic actions
+# flight_ticket_booking_website
+
+- `add_flight.php`
+- `admin_dashboard.php`
+- `admin_forgot_password.php`
+- `admin_home.php`
+- `admin_login.php`
+- `admin_register.php`
+- `admin_reset_password.php`
+- `booking_confirmation.php`
+- `booking_details.php`
+- `contact.php`
+- `db_config.php`
+- `deleted_flights.php`
+- `delete_flight.php`
+- `edited_flights.php`
+- `edit_flight.php`
+- `edit_passenger.php`
+- `forgot_password.php`
+- `image1.jpg`
+- `index.php`
+- `login.php`
+- `logout.php`
+- `passenger_details.php`
+- `plane.mp4`
+- `process_booking.php`
+- `register.php`
+- `reset_password.php`
+- `search_flights.php`
+- `select_flight.php`
+- `sql/`
+  - `flight_booking_website.sql`
+- `terms.php`
+- `ticket_details.php`
+- `tour.jpg`
+- `tour1.png`
+- `update_user.php`
+- `user_dashboard.php`
+- `view_deleted_passengers.php`
+- `view_edited_passengers.php`
+- `view_passengers.php`
+- `view_ticket.php`
+- `view_tickets.php`
+
 
 
 ## Setup Instructions
